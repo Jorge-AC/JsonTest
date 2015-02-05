@@ -1,4 +1,16 @@
 /* line 1, ../sass/style.scss */
+html {
+  height: 100%;
+}
+
+/* line 2, ../sass/style.scss */
 body {
-  background-color: #ccc;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 3, ../sass/style.scss */
+#map_canvas {
+  height: 100%;
 }
